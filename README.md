@@ -51,4 +51,14 @@ Este repositorio centraliza todas las certificaciones y programas completados, d
 ## 3. Certificados de Liderazgo y Transformación Digital
 
 | Certificación | Entidad | Año | Enfoque |
-| :--- | :--- | :--- | :---
+| :--- | :--- | :--- | :--- |
+| **Transformación Digital** | MIT Professional Education | 2024 | Estrategia y Liderazgo Digital |
+| **Internet de las Cosas (IoT)** | MIT Professional Education | 2024 | Aplicación Industrial del IoT |
+| **Negociación** | Esade | 2024 | Estrategias de Negociación |
+| **Marketing automation** | Santander Open Academy | 2025 | Automatización de Procesos de Marketing |
+
+---
+
+### 📥 Archivos de Respaldo
+* [Coursera_Certificates.md](./Coursera_Certificates.md) - Lista completa de módulos de Coursera.
+* [Other_Certifications.md](./Other_Certifications.md) - Lista completa de otros cursos y talleres.
